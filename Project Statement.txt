@@ -1,0 +1,11 @@
+This Proejct is meant to be a good way to practice programming in multiple languages
+
+Th purpose of this project is to make a computer program that will help me make decisions using process of elimination and rverse Psychology
+
+In Practice the logic is simple, just a simple random number generation to act like I'm rolling a dice/taking a chance with the program
+
+When a choice has been made,it's up to the user to decide whether they actually want to listne to the program or not. 
+
+As the project Progresses, I want to be able to make more complex decisions that require careful consideration
+
+Alongside the decisions, I want to implement higher levels of programming (EX. Machinelearning, app development, api functionality) 
